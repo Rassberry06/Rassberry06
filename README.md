@@ -6,5 +6,4 @@
 - How to reach me: Email - toby.walden06@gmail.com
 - Pronouns: Any
 
-- ![Snake animation](https://github.com/Rassberry06/Rassberry06/blob/output/github-contribution-grid-snake.svg)
 
