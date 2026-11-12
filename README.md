@@ -5,6 +5,3 @@
 - I Enjoy Art, Hiking, Coding, 3D modeling, Playing games and Socialising
 - How to reach me: Email - toby.walden06@gmail.com
 - Pronouns: He/They
-
-[Check out my Portfoilio](https://github.com/Rassberry06/Portfolio)
-
